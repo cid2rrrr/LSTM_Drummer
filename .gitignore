@@ -1,4 +1,4 @@
-
+*.mid
 *.gzip
 *.mid.csv.gzip
 dataset/**/*
