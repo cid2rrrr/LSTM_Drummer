@@ -9,3 +9,12 @@ masked_dataset*
 dataset*
 bar_dataset/drummer1/session1/1_funk_80_beat_4-4.mid.csv.gzip
 chkpnt/*
+/0130
+/0216
+/0216_df
+/midi2df*
+/new_2bar*
+/bar_dataset*
+/bar2single*
+/chkpnt
+/test_midi
